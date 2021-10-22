@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh25082001" alt="siddhesh25082001" /></a> </p>
 
-- 🔭 I’m currently working on [Connect - A Video-Chat Application](https://mane-meet.herokuapp.com/)
+- 🔭 I’m currently working on **[Connect - A Video-Chat Application](https://mane-meet.herokuapp.com/)**
 
 - 🌱 I’m currently learning **React JS, Three.js (3D Web Development), React Native and Flutter**
 
 - 👯 I’m looking to collaborate on **Manthan Hackathon Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Siddhesh25082001](https://github.com/Siddhesh25082001)
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/Siddhesh25082001)**
 
-- 💬 Ask me about **Frontend Techs, Coding, Computer Engineering, Gate etc.**
+- 💬 Ask me about **Frontend Techs, Coding, Computer Engineering, Gate etc**
 
 - 📫 How to reach me **siddheshmane025@gmail.com**
 
