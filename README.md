@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Mane</h1>
-<h3 align="center">A Passionate and Enthusiastic Individual seeking to explore new areas and work in a dynamic stable organization where I can improve my skills and knowledge in the field of Computer Engineering allowing myself to pursue a rewarding career.</h3>
+<h4 align="center">A Passionate and Enthusiastic Individual seeking to explore new areas and work in a dynamic stable organization where I can improve my skills and knowledge in the field of Computer Engineering allowing myself to pursue a rewarding career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh25082001&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh25082001" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Connect - A Video-Chat Application](https://mane-meet.herokuapp.com/)
 
-- 🌱 I’m currently learning **React JS, React Native and Flutter**
+- 🌱 I’m currently learning **React JS, Three.js (3D Web Development), React Native and Flutter**
 
-- 👯 I’m looking to collaborate on **VCET Hackathon Project**
+- 👯 I’m looking to collaborate on **Manthan Hackathon Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddhesh25082001](https://github.com/Siddhesh25082001)
 
@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/@sid25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sid25" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddhesh-suresh-mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhesh-suresh-mane" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/silentcoder25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="silentcoder25" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/siddheshmane025/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/siddheshmane025/profile" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/siddhesh-suresh-mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhesh-suresh-mane" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/silentcoder25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="silentcoder25" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/siddheshmane025/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/siddheshmane025/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
