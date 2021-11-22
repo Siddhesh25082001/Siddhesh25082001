@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh25082001" alt="siddhesh25082001" /></a> </p>
 
-- 🔭 I’m currently working on [Number9-VFX Company Client Project](https://number9-vfx.netlify.app/)
+- 🔭 I’m currently working on **[Number9-VFX Company Client Project](https://number9-vfx.netlify.app/)**
 
 - 🌱 I’m currently learning **React JS, Three.js (3D Web Development), React Native and Flutter**
 
-- 👯 I’m looking to collaborate on [Thea and Sid Company Client Side Project](https://theaandsid.com/)
+- 👯 I’m looking to collaborate on **[Thea and Sid Company Client Side Project](https://theaandsid.com/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Siddhesh25082001](https://github.com/Siddhesh25082001)
+- 👨‍💻 All of my projects are available at **[https://github.com/Siddhesh25082001](https://github.com/Siddhesh25082001)**
 
 - 💬 Ask me about **Frontend Techs, Coding, Computer Engineering, Gate CSE etc**
 
 - 📫 How to reach me **siddheshmane025@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/siddhesh-suresh-mane/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADFK1koBW6JsQukEP5gwnmWjYBrRS5j9VQg,1635473522466)/](https://www.linkedin.com/in/siddhesh-suresh-mane/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADFK1koBW6JsQukEP5gwnmWjYBrRS5j9VQg,1635473522466)/)
+- 📄 Know about my experiences **[Resume](https://www.linkedin.com/in/siddhesh-suresh-mane/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADFK1koBW6JsQukEP5gwnmWjYBrRS5j9VQg,1635473522466)/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
