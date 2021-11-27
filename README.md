@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **[Thea and Sid Company Client Side Project](https://theaandsid.com/)**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Siddhesh25082001](https://github.com/Siddhesh25082001)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Siddhesh25082001)**
 
 - 💬 Ask me about **Frontend Techs, Coding, Computer Engineering, Gate CSE etc**
 
 - 📫 How to reach me **siddheshmane025@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://www.linkedin.com/in/siddhesh-suresh-mane/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADFK1koBW6JsQukEP5gwnmWjYBrRS5j9VQg,1635473522466)/)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/drive/u/1/folders/14TX-5iPgO4mEu-VxTUnag0EmblRUXd9t)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
