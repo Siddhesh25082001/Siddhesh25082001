@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **siddheshmane025@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/drive/u/1/folders/14TX-5iPgO4mEu-VxTUnag0EmblRUXd9t)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pMIAJC_d_3Qp-Tf_FyHzyE9gtCJH_pfd/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
