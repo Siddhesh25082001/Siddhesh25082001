@@ -17,8 +17,7 @@
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pMIAJC_d_3Qp-Tf_FyHzyE9gtCJH_pfd/view?usp=sharing)**
 
-### < About Me />
----
+<h3 align="left">About Me</h3>
 
 ``` javascript
 document.write("Hi 👋, I'm Siddhesh Mane");
