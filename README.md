@@ -13,11 +13,36 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Siddhesh25082001)**
 
-- 💬 Ask me about **Frontend Techs, Coding, Computer Engineering, Gate CSE etc**
-
 - 📫 How to reach me **siddheshmane025@gmail.com**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1pMIAJC_d_3Qp-Tf_FyHzyE9gtCJH_pfd/view?usp=sharing)**
+
+### < About Me />
+---
+
+``` javascript
+document.write("Hi 👋, I'm Siddhesh Mane");
+Developer dev = new Developer("Siddhesh Mane");
+
+const Siddhesh = {
+  pronouns: ['He', 'Him'],
+  status: 'Student',
+  technologies: {
+    frontEnd: [ 'HTML', 'CSS', 'SAAS', 'Javascript', 'BootStrap', 'Tailwind CSS', 'React' ],
+    backEnd: [ 'MySQL', 'nodeJS', 'express', 'Mongodb', 'django' ]
+  },
+  askMeAbout: [ 'frontEnd-Techs', 'Coding', 'Computer Engineering', 'Gate CSE' ],
+  learning: [ 'Three.js' ]    
+};
+
+if (succeed == false){
+  tryAgain();
+}
+else{
+  party();
+}
+```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
