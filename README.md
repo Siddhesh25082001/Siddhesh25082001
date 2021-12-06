@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Mane</h1>
-<h3 align="center">A Passionate and Enthusiastic Individual seeking to explore new areas and work in a dynamic stable organization where I can improve my skills and knowledge in the field of Computer Engineering allowing myself to pursue a rewarding career ahead</h3>
+<h4 align="center">A Passionate and Enthusiastic Individual seeking to explore new areas and work in a dynamic stable organization <br> where I can improve my skills and knowledge in the field of Computer Engineering <br> allowing myself to pursue a rewarding career ahead</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh25082001&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh25082001" /> </p>
 
