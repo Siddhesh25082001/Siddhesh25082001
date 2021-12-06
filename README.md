@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh25082001&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh25082001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh25082001" alt="siddhesh25082001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh25082001&theme=darkhub" alt="siddhesh25082001" /></a> </p>
 
 - 🔭 I’m currently working on **[Number9-VFX Company Client Project](https://number9-vfx.netlify.app/)**
 
