@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh25082001&theme=darkhub" alt="siddhesh25082001" /></a> </p>
 
-- 🔭 I’m currently working on **[Number9-VFX Company Client Project](https://number9-vfx.netlify.app/)**
+- 🔭 I’m currently working in **[Arachnomesh Technologies](https://www.linkedin.com/company/arachnomesh/mycompany/)** as a **[Software Engineer Intern](https://www.linkedin.com/in/siddhesh-suresh-mane/)**
 
-- 🌱 I’m currently learning **React JS, Three.js (3D Web Development), React Native and Flutter**
+- 🌱 I’m currently learning **React JS, Three.js (3D Web Development), Automation Testing**
 
-- 👯 I’m looking to collaborate on **[Thea and Sid Company Client Side Project](https://theaandsid.com/)**
+- 👯 I’m looking to collaborate on **Arachnomesh Technologies Company Project - Redesign of Arachnomesh Bugger Timeline**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Siddhesh25082001)**
 
@@ -25,13 +25,13 @@ Developer dev = new Developer("Siddhesh Mane");
 
 const Siddhesh = {
   pronouns: ['He', 'Him'],
-  status: 'Student',
+  status: 'Student', 'SDE Intern at Arachnomes',
   technologies: {
     frontEnd: [ 'HTML', 'CSS', 'SAAS', 'Javascript', 'BootStrap', 'Tailwind CSS', 'React' ],
-    backEnd: [ 'MySQL', 'nodeJS', 'express', 'Mongodb', 'django' ]
+    backEnd: [ 'MySQL', 'NodeJS', 'express', 'Mongodb', 'Sequelize ORM' ]
   },
   askMeAbout: [ 'frontEnd-Techs', 'Coding', 'Computer Engineering', 'Gate CSE' ],
-  learning: [ 'Three.js' ]    
+  learning: [ 'Three.js', 'Automation Testing' ]    
 };
 
 if (succeed == false){
